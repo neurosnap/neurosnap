@@ -21,8 +21,6 @@ games.
 
 📕 **Latest Blog Posts**
 
-Blog: [https://erock.io](https://erock.io)
-
 <!-- BLOG-POST-LIST:START -->
 - [Entity factories](https://erock.io/2021/04/14/entity-factories.html)
 - [listifi.app codebase now public](https://erock.io/2021/04/07/listifi-code-now-public.html)
