@@ -17,7 +17,6 @@ games.
 
 📫 Feel free to reach out if any of these things interest you as well!
 
-- email: <a href="mailto:github@erock.io">github@erock.io</a>
 - twitter: [@neurosnap](https://twitter.com/neurosnap)
 - sourcehut: [~erock](https://git.sr.ht/~erock)
 - pgp: [7A51A47D76D3FD02](https://erock.io/publickey.txt)
