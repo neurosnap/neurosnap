@@ -28,3 +28,5 @@ games.
 - [What is a selector?](https://erock.io/2021/02/24/what-is-a-selector.html)
 - [Customer interviews killed my product idea](https://erock.io/2021/01/31/customer-interviews-killed-my-product-idea.html)
 <!-- BLOG-POST-LIST:END -->
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=neurosnap&show_icons=true)](https://github.com/neurosnap)
