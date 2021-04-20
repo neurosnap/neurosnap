@@ -2,14 +2,15 @@
 
 <hr style="border:2px solid gray"> </hr>
 
-I'm currently a Principal Software Engineer working at
-[@aptible](https://github.com/aptible).
-
-I like to write articles about software engineering.  I spend most of my
-time writing front-end code as well as contributing to my side-projects.
+I like to write articles about my adventures in software development.  I am
+constantly thinking about new open-source libraries I can build. I spend most
+of my time writing front-end code as well as contributing to my side-projects.
 
 I recently launched a list sharing app called [listifi](https://listifi.app).
 Check it out if you're interested.
+
+I'm currently a Principal Software Engineer working at
+[@aptible](https://github.com/aptible).
 
 In my spare time I like to build keyboards, longboard, cook, and play video
 games.
