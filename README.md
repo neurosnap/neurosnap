@@ -24,9 +24,9 @@ games.
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [saga-query initial release](https://erock.io/2021/06/16/saga-query.html)
 - [Entity factories](https://erock.io/2021/04/14/entity-factories.html)
 - [listifi.app codebase now public](https://erock.io/2021/04/07/listifi-code-now-public.html)
 - [My love letter to front-end web development](https://erock.io/2021/03/27/my-love-letter-to-front-end-web-development.html)
 - [What is a selector?](https://erock.io/2021/02/24/what-is-a-selector.html)
-- [Customer interviews killed my product idea](https://erock.io/2021/01/31/customer-interviews-killed-my-product-idea.html)
 <!-- BLOG-POST-LIST:END -->
