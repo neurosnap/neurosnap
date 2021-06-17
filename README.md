@@ -6,16 +6,19 @@ I like to write articles about my adventures in software development.  I am
 constantly thinking about new open-source libraries I can build. I spend most
 of my time writing front-end code as well as contributing to my side-projects.
 
+My latest OSS project is [saga-query](https://github.com/neurosnap/saga-query)
+which leverages koa-like middleware to handle data fetching for front-end apps.
+
 I recently launched a list sharing app called [listifi](https://listifi.app).
 Check it out if you're interested.
 
 I'm currently a Principal Software Engineer working at
-[@aptible](https://github.com/aptible).
+[@aptible](https://aptible.com).
 
 In my spare time I like to build keyboards, longboard, cook, and play video
 games.
 
-📫 Feel free to reach out if any of these things interest you as well!
+📫 Feel free to reach out!
 
 - twitter: [@neurosnap](https://twitter.com/neurosnap)
 - sourcehut: [~erock](https://git.sr.ht/~erock)
