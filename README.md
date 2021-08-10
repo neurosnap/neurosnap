@@ -9,7 +9,11 @@ of my time writing front-end code as well as contributing to my side-projects.
 My latest OSS project is [saga-query](https://github.com/neurosnap/saga-query)
 which leverages koa-like middleware to handle data fetching for front-end apps.
 
-I recently launched a list sharing app called [listifi](https://listifi.app).
+I recently launched [neovimcraft](https://neovimcraft.com) which is a site
+dedicated to finding the best neovim plugins and guides for building plugins in
+lua.
+
+I also launched a list sharing app called [listifi](https://listifi.app).
 Check it out if you're interested.
 
 I'm currently a Principal Software Engineer working at
