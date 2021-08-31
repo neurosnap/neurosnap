@@ -31,9 +31,9 @@ games.
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Neovimcraft status update, August 2021](https://erock.io/2021/08/31/neovimcraft-status-update-august-2021.html)
+- [A critique on project management software](https://erock.io/2021/08/27/a-critique-on-project-management-software.html)
 - [My experience with svelte-kit](https://erock.io/2021/07/18/my-experience-with-svelte-kit.html)
 - [Dynamic open graph images](https://erock.io/2021/06/25/dynamic-open-graph-images.html)
 - [Refactoring listifi to use saga-query](https://erock.io/2021/06/20/refactor-listifi-to-use-saga-query.html)
-- [saga-query initial release](https://erock.io/2021/06/16/saga-query.html)
-- [Entity factories](https://erock.io/2021/04/14/entity-factories.html)
 <!-- BLOG-POST-LIST:END -->
