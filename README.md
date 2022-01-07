@@ -6,6 +6,9 @@ I like to write articles about my adventures in software development.  I am
 constantly thinking about new open-source libraries I can build. I spend most
 of my time writing front-end code as well as contributing to my side-projects.
 
+Searching for neovim plugins in the terminal is as easy as `curl
+https://nvim.sh/s/git` using [nvim.sh](https://nvim.sh)
+
 My latest OSS project is [saga-query](https://github.com/neurosnap/saga-query)
 which leverages koa-like middleware to handle data fetching for front-end apps.
 
