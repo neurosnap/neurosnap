@@ -34,9 +34,9 @@ games.
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [On decoupled loaders](https://erock.io/2022/01/21/on-decoupled-loaders.html)
 - [nvim.sh](https://erock.io/2022/01/08/nvimsh-release.html)
 - [framework vs mbp](https://erock.io/2021/11/01/framework-vs-mbp.html)
 - [On autoloading](https://erock.io/2021/11/01/on-autoloading.html)
 - [Wrmhole status update, September 2021](https://erock.io/2021/09/26/wrmhole-status-update-sep-2021.html)
-- [Neovimcraft status update, August 2021](https://erock.io/2021/08/31/neovimcraft-status-update-august-2021.html)
 <!-- BLOG-POST-LIST:END -->
