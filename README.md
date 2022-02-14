@@ -2,28 +2,25 @@
 
 <hr style="border:2px solid gray"> </hr>
 
-I like to write articles about my adventures in software development.  I am
-constantly thinking about new open-source libraries I can build. I spend most
-of my time writing front-end code as well as contributing to my side-projects.
+I enjoy writing articles about my adventures in software development.  I spend
+a lot of time thinking about and building side-projects.  I aspire to work on
+my own projects full time and am working towards that goal.
 
-Searching for neovim plugins in the terminal is as easy as `curl
-https://nvim.sh/s/git` using [nvim.sh](https://nvim.sh)
+Recent projects:
 
-My latest OSS project is [saga-query](https://github.com/neurosnap/saga-query)
-which leverages koa-like middleware to handle data fetching for front-end apps.
-
-I recently launched [neovimcraft](https://neovimcraft.com) which is a site
-dedicated to finding the best neovim plugins and guides for building plugins in
-lua.
-
-I also launched a list sharing app called [listifi](https://listifi.app).
-Check it out if you're interested.
+- [nvim.sh](https://nvim.sh) - searching for neovim plugins in the terminal
+  `curl https://nvim.sh`
+- [saga-query](https://github.com/neurosnap/saga-query) - Use an express-like
+  middleware to handle data fetching for front-end apps
+- [neovimcraft](https://neovimcraft.com) - A site to help you find the best
+  neovim plugins
+- [listifi](https://listifi.app) - Share lists with everyone
 
 I'm currently a Principal Software Engineer working at
 [@aptible](https://aptible.com).
 
-In my spare time I like to build keyboards, longboard, cook, and play video
-games.
+In my spare time I like to build keyboards, longboard, cook, and hang out with
+my wife and kid.
 
 📫 Feel free to reach out!
 
