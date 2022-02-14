@@ -8,6 +8,8 @@ my own projects full time and am working towards that goal.
 
 Recent projects:
 
+- [remix-middleware](https://github.com/neurosnap/remix-middleware) -
+  Express-like middleware system for your loaders and actions
 - [nvim.sh](https://nvim.sh) - searching for neovim plugins in the terminal
   `curl https://nvim.sh`
 - [saga-query](https://github.com/neurosnap/saga-query) - Use an express-like
