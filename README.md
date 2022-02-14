@@ -9,11 +9,11 @@ my own projects full time and am working towards that goal.
 Recent projects:
 
 - [remix-middleware](https://github.com/neurosnap/remix-middleware) -
-  Express-like middleware system for your loaders and actions
+  An express-like middleware system to help reuse code for your loaders and actions
 - [nvim.sh](https://nvim.sh) - searching for neovim plugins in the terminal
   `curl https://nvim.sh`
-- [saga-query](https://github.com/neurosnap/saga-query) - Use an express-like
-  middleware to handle data fetching for front-end apps
+- [saga-query](https://github.com/neurosnap/saga-query) - An express-like
+  middleware system to handle data fetching for front-end apps
 - [neovimcraft](https://neovimcraft.com) - A site to help you find the best
   neovim plugins
 - [listifi](https://listifi.app) - Share lists with everyone
