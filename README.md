@@ -8,6 +8,7 @@ my own projects full time and am working towards that goal.
 
 Recent projects:
 
+- [lists.sh](https://lists.sh) - A microblog for lists
 - [remix-middleware](https://github.com/neurosnap/remix-middleware) -
   An express-like middleware system to help reuse code for your loaders and actions
 - [nvim.sh](https://nvim.sh) - searching for neovim plugins in the terminal
