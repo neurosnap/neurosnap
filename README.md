@@ -34,9 +34,9 @@ my wife and kid.
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [lists.sh initial launch](https://erock.io/2022/04/25/lists-launch.html)
 - [The duality of software production](https://erock.io/2022/02/17/the-duality-of-software-production.html)
 - [dendrin &lpar;was wrmhole&rpar; status update, February 2022](https://erock.io/2022/02/09/dendrin-status-update-feb-2022.html)
 - [On decoupled loaders](https://erock.io/2022/01/21/on-decoupled-loaders.html)
 - [nvim.sh](https://erock.io/2022/01/08/nvimsh-release.html)
-- [framework vs mbp](https://erock.io/2021/11/01/framework-vs-mbp.html)
 <!-- BLOG-POST-LIST:END -->
