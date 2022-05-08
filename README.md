@@ -17,7 +17,6 @@ Recent projects:
   middleware system to handle data fetching for front-end apps
 - [neovimcraft](https://neovimcraft.com) - A site to help you find the best
   neovim plugins
-- [listifi](https://listifi.app) - Share lists with everyone
 
 I'm currently a Principal Software Engineer working at
 [@aptible](https://aptible.com).
