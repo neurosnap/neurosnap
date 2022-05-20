@@ -33,9 +33,9 @@ my wife and kid.
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [the new and upgraded framework laptop](https://erock.io/2022/05/19/new-framework-laptop.html)
 - [sunsetting listifi.app](https://erock.io/2022/05/04/sunsetting-listifi.html)
 - [Redux-saga style-guide](https://erock.io/2022/05/03/redux-saga-style-guide.html)
 - [lists.sh initial launch](https://erock.io/2022/04/25/lists-launch.html)
 - [The duality of software production](https://erock.io/2022/02/17/the-duality-of-software-production.html)
-- [dendrin &lpar;was wrmhole&rpar; status update, February 2022](https://erock.io/2022/02/09/dendrin-status-update-feb-2022.html)
 <!-- BLOG-POST-LIST:END -->
