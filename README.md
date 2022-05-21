@@ -33,9 +33,9 @@ my wife and kid.
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [reply -- the balance has shifted away from SPAs](https://erock.io/2022/05/21/shifting-away-from-spa.html)
 - [the new and upgraded framework laptop](https://erock.io/2022/05/19/new-framework-laptop.html)
 - [sunsetting listifi.app](https://erock.io/2022/05/04/sunsetting-listifi.html)
 - [Redux-saga style-guide](https://erock.io/2022/05/03/redux-saga-style-guide.html)
 - [lists.sh initial launch](https://erock.io/2022/04/25/lists-launch.html)
-- [The duality of software production](https://erock.io/2022/02/17/the-duality-of-software-production.html)
 <!-- BLOG-POST-LIST:END -->
