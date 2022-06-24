@@ -2,10 +2,6 @@
 
 <hr style="border:2px solid gray"> </hr>
 
-I enjoy writing articles about my adventures in software development.  I spend
-a lot of time thinking about and building side-projects.  I aspire to work on
-my own projects full time and am working towards that goal.
-
 Recent projects:
 
 - [lists.sh](https://lists.sh) - A microblog for lists
@@ -18,11 +14,13 @@ Recent projects:
 - [neovimcraft](https://neovimcraft.com) - A site to help you find the best
   neovim plugins
 
+I also help maintain [redux-saga](https://github.com/redux-saga).
+
 I'm currently a Principal Software Engineer working at
 [@aptible](https://aptible.com).
 
-In my spare time I like to build keyboards, longboard, cook, and hang out with
-my wife and kid.
+In my spare time (besides working on side projects) I like to build keyboards, longboard, 
+cook, and hang out with my wife and kid.
 
 📫 Feel free to reach out!
 
