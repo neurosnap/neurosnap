@@ -4,12 +4,14 @@
 
 Recent projects:
 
+- [prose.sh](https://prose.sh) - a blog platform for hackers
+- [pastes.sh](https://pastes.sh) - a pastebin for hackers
 - [lists.sh](https://lists.sh) - A microblog for lists
 - [remix-middleware](https://github.com/neurosnap/remix-middleware) -
   An express-like middleware system to help reuse code for your loaders and actions
 - [nvim.sh](https://nvim.sh) - searching for neovim plugins in the terminal
   `curl https://nvim.sh`
-- [saga-query](https://github.com/neurosnap/saga-query) - An express-like
+- [saga-query](https://github.com/redux-saga/saga-query) - An express-like
   middleware system to handle data fetching for front-end apps
 - [neovimcraft](https://neovimcraft.com) - A site to help you find the best
   neovim plugins
