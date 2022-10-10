@@ -33,9 +33,9 @@ cook, and hang out with my wife and kid.
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Cast iron leet](https://erock.io/2022/08/11/cast-iron-leet.html)
-- [internet points](https://erock.io/2022/07/12/internet-points.html)
-- [On github as a social network](https://erock.io/2022/06/03/github-as-social-network.html)
-- [reply -- the balance has shifted away from SPAs](https://erock.io/2022/05/21/shifting-away-from-spa.html)
-- [the new and upgraded framework laptop](https://erock.io/2022/05/19/new-framework-laptop.html)
+- [React is bad because it&#39;s great](https://erock.io/2022/09/22/react-is-bad-because-its-great.html)
+- [Shia LaBeouf and Jon Bernthal Interview](https://erock.io/2022/09/08/shia-bernthal-interview.html)
+- [What is creativity?](https://erock.io/2022/09/08/what-is-creativity.html)
+- [Using a debugger](https://erock.io/2022/09/02/using-a-debugger.html)
+- [A priori is a myth](https://erock.io/2022/08/29/a-priori-myth.html)
 <!-- BLOG-POST-LIST:END -->
