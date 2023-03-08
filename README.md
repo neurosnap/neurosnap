@@ -1,5 +1,3 @@
-### Hi there 👋, I'm [Eric Bower](https://erock.io)
-
 <hr style="border:2px solid gray"> </hr>
 
 Recent projects:
@@ -13,13 +11,7 @@ Recent projects:
 
 I also help maintain [redux-saga](https://github.com/redux-saga).
 
-I'm currently a Principal Software Engineer working at
-[@aptible](https://aptible.com).
-
-In my spare time (besides working on side projects) I like to build keyboards, longboard, 
-cook, and hang out with my wife and kid.
-
-📫 Feel free to reach out!
+I work at [@aptible](https://aptible.com) as a Software Engineer.
 
 - mastodon: [@erock](https://fosstodon.org/@erock)
 - sourcehut: [~erock](https://git.sr.ht/~erock)
