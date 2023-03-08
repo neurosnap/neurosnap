@@ -21,7 +21,7 @@ cook, and hang out with my wife and kid.
 
 📫 Feel free to reach out!
 
-- twitter: [@neurosnap](https://twitter.com/neurosnap)
+- mastodon: [@erock](https://fosstodon.org/@erock)
 - sourcehut: [~erock](https://git.sr.ht/~erock)
 - pgp: [7A51A47D76D3FD02](https://erock.io/publickey.txt)
 
