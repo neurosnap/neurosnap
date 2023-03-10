@@ -20,9 +20,9 @@ I work at [@aptible](https://aptible.com) as a Software Engineer.
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [The dogma of restful apis](https://erock.io/2023/03/10/dogma-of-restful-api.html)
 - [conventional wisdom as an anti-pattern](https://erock.io/2023/02/26/anti-pattern.html)
 - [we are all savages](https://erock.io/2023/01/23/we-are-all-savages.html)
 - [what is the smol web?](https://erock.io/2022/12/31/what-is-the-smol-web.html)
 - [what is consciousness?](https://erock.io/2022/10/15/what-is-consciousness.html)
-- [React is bad because it&#39;s great](https://erock.io/2022/09/22/react-is-bad-because-its-great.html)
 <!-- BLOG-POST-LIST:END -->
