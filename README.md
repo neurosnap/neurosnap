@@ -20,9 +20,9 @@ I work at [@aptible](https://aptible.com) as a Software Engineer.
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Bower&#39;s law](https://bower.sh/bowers-law)
 - [In love with a ghost](https://bower.sh/in-love-with-a-ghost)
 - [using openSUSE microOS for container-driven development](https://bower.sh/opensuse-microos-container-dev)
 - [neovimcraft.com configs search launch](https://bower.sh/neovimcraft-configs-search)
 - [We don&#39;t need human linters](https://bower.sh/human-linting)
-- [projects](https://bower.sh/projects)
 <!-- BLOG-POST-LIST:END -->
