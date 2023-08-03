@@ -1,5 +1,9 @@
 <hr style="border:2px solid gray"> </hr>
 
+Talks:
+
+- [Delimited Continuations are all you need](https://youtu.be/uRbqLGj_6mI)
+
 Recent projects:
 
 - [prose.sh](https://prose.sh) - A blog platform for hackers
