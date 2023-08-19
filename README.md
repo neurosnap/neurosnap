@@ -25,8 +25,8 @@ I work at [@aptible](https://aptible.com) as a Software Engineer.
 
 <!-- BLOG-POST-LIST:START -->
 - [Who will understand consciousness?](https://bower.sh/who-will-understand-consciousness)
-- [using openSUSE microOS for container-driven development](https://bower.sh/opensuse-microos-container-dev)
-- [We don&#39;t need human linters](https://bower.sh/human-linting)
+- [Bower&#39;s law](https://bower.sh/bowers-law)
 - [In love with a ghost](https://bower.sh/in-love-with-a-ghost)
-- [projects](https://bower.sh/projects)
+- [using openSUSE microOS for container-driven development](https://bower.sh/opensuse-microos-container-dev)
+- [neovimcraft.com configs search launch](https://bower.sh/neovimcraft-configs-search)
 <!-- BLOG-POST-LIST:END -->
