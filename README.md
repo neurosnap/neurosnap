@@ -24,7 +24,7 @@ I work at [@aptible](https://aptible.com) as a Software Engineer.
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [front-end complexity](https://bower.sh/front-end-complexity)
+- [front-end complexity is all in your head](https://bower.sh/front-end-complexity)
 - [what is starfx?](https://bower.sh/what-is-starfx)
 - [Who will understand consciousness?](https://bower.sh/who-will-understand-consciousness)
 - [Bower&#39;s law](https://bower.sh/bowers-law)
