@@ -6,12 +6,12 @@ Talks:
 
 Recent projects:
 
-- [prose.sh](https://prose.sh) - A blog platform for hackers
+- [starfx](https://github.com/neurosnap/starfx) - Structured concurrency 
+  for your FE apps with a modern approach to side-effect and state management. 
+- [pico.sh](https://pico.sh) - A bunch of dev-focused services to promote
+  communication and collaboration
 - [neovimcraft](https://neovimcraft.com) - A site to help you find the best
   neovim plugins
-- [saga-query](https://github.com/redux-saga/saga-query) - An express-like
-  middleware system to handle data fetching for front-end apps
-- [lists.sh](https://lists.sh) - A microblog for lists
 
 I also help maintain [redux-saga](https://github.com/redux-saga).
 
