@@ -26,7 +26,7 @@ I work at [@aptible](https://aptible.com) as a Software Engineer.
 <!-- BLOG-POST-LIST:START -->
 - [front-end complexity is all in your head](https://bower.sh/front-end-complexity)
 - [what is starfx?](https://bower.sh/what-is-starfx)
-- [Delimited continuations are all you need](https://bower.sh/delimited-continuations)
 - [Who will understand consciousness?](https://bower.sh/who-will-understand-consciousness)
 - [Bower&#39;s law](https://bower.sh/bowers-law)
+- [In love with a ghost](https://bower.sh/in-love-with-a-ghost)
 <!-- BLOG-POST-LIST:END -->
