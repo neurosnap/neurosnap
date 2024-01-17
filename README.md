@@ -3,6 +3,7 @@
 Talks:
 
 - [Delimited Continuations are all you need](https://youtu.be/uRbqLGj_6mI)
+- [`effection` with Charles Lowell](https://youtu.be/lJDgpxRw5WA?si=cCHZiKqNO7vIUhPc)
 
 Recent projects:
 
