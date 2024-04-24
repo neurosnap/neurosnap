@@ -25,9 +25,9 @@ I work at [@aptible](https://aptible.com) as a Software Engineer.
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [zig devlog ep1](https://bower.sh/zig-devlog-ep1)
 - [crickets](https://bower.sh/crickets)
 - [on the xz backdoor](https://bower.sh/xz-backdoor)
 - [barrel](https://bower.sh/floating)
 - [front-end complexity is all in your head](https://bower.sh/front-end-complexity)
-- [what is starfx?](https://bower.sh/what-is-starfx)
 <!-- BLOG-POST-LIST:END -->
