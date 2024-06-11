@@ -25,7 +25,7 @@ I work at [@aptible](https://aptible.com) as a Software Engineer.
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Conscioussness is wet](https://bower.sh/consciousness-is-wet)
+- [conscioussness is wet](https://bower.sh/consciousness-is-wet)
 - [homelab](https://bower.sh/homelab)
 - [zig devlog ep1](https://bower.sh/zig-devlog-ep1)
 - [crickets](https://bower.sh/crickets)
