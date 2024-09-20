@@ -26,8 +26,8 @@ I work at [@aptible](https://aptible.com) as a Software Engineer.
 
 <!-- BLOG-POST-LIST:START -->
 - [Why structured concurrency?](https://bower.sh/why-structured-concurrency)
-- [conscioussness is wet](https://bower.sh/consciousness-is-wet)
+- [barrel](https://bower.sh/floating)
 - [homelab](https://bower.sh/homelab)
-- [zig devlog ep1](https://bower.sh/zig-devlog-ep1)
-- [crickets](https://bower.sh/crickets)
+- [Who will understand consciousness?](https://bower.sh/who-will-understand-consciousness)
+- [conscioussness is wet](https://bower.sh/consciousness-is-wet)
 <!-- BLOG-POST-LIST:END -->
