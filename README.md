@@ -25,9 +25,9 @@ I work at [@aptible](https://aptible.com) as a Software Engineer.
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [homelab](https://bower.sh/homelab)
 - [on writing](https://bower.sh/on-writing)
 - [Why structured concurrency?](https://bower.sh/why-structured-concurrency)
+- [homelab](https://bower.sh/homelab)
 - [barrel](https://bower.sh/floating)
 - [conscioussness is wet](https://bower.sh/consciousness-is-wet)
 <!-- BLOG-POST-LIST:END -->
