@@ -21,9 +21,9 @@ I also help maintain [redux-saga](https://github.com/redux-saga).
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [status-2](https://bower.sh/status-002)
 - [status-1](https://bower.sh/status-001)
 - [on writing](https://bower.sh/on-writing)
 - [Why structured concurrency?](https://bower.sh/why-structured-concurrency)
 - [conscioussness is wet](https://bower.sh/consciousness-is-wet)
-- [homelab](https://bower.sh/homelab)
 <!-- BLOG-POST-LIST:END -->
