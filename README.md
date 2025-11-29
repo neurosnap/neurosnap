@@ -21,9 +21,9 @@ I also help maintain [redux-saga](https://github.com/redux-saga).
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [smol contract](https://bower.sh/smol-contract)
 - [you might not need tmux](https://bower.sh/you-might-not-need-tmux)
 - [migrating to neovim&#39;s new built-in plugin manager](https://bower.sh/nvim-builtin-plugin-mgr)
 - [status-2](https://bower.sh/status-002)
 - [status-1](https://bower.sh/status-001)
-- [on writing](https://bower.sh/on-writing)
 <!-- BLOG-POST-LIST:END -->
