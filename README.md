@@ -5,10 +5,6 @@ Talks:
 - [Delimited Continuations are all you need](https://youtu.be/uRbqLGj_6mI)
 - [`effection` with Charles Lowell](https://youtu.be/lJDgpxRw5WA?si=cCHZiKqNO7vIUhPc)
 
-I also help maintain [redux-saga](https://github.com/redux-saga).
-
-- mastodon: [@erock](https://fosstodon.org/@erock)
-
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
