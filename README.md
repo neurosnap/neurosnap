@@ -7,16 +7,14 @@ Talks:
 
 Active projects:
 
-- [starfx](https://github.com/neurosnap/starfx) - Structured concurrency for
-  your FE apps with a modern approach to side-effect and state management.
-- [pico.sh](https://pico.sh) - The ultimate `ssh` powered services for developers
-- [neovimcraft](https://neovimcraft.com) - A site to help you find the best
+- [zmx](https://github.com/neurosnap/zmx) - session persistence for terminal sessions
+- [pico.sh](https://pico.sh) - the ultimate `ssh` powered services for developers
+- [neovimcraft](https://neovimcraft.com) - site to help you find the best
   neovim plugins
 
 I also help maintain [redux-saga](https://github.com/redux-saga).
 
 - mastodon: [@erock](https://fosstodon.org/@erock)
-- pgp: [7A51A47D76D3FD02](https://erock.io/publickey.txt)
 
 📕 **Latest Blog Posts**
 
