@@ -8,7 +8,7 @@ Talks:
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [zmx session persistence for your terminal sessions](https://bower.sh/zmx-session-persistence)
+- [zmx - session persistence for your terminal processes](https://bower.sh/zmx-session-persistence)
 - [smol contract](https://bower.sh/smol-contract)
 - [you might not need tmux](https://bower.sh/you-might-not-need-tmux)
 - [migrating to neovim&#39;s new built-in plugin manager](https://bower.sh/nvim-builtin-plugin-mgr)
