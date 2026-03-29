@@ -8,9 +8,9 @@ Talks:
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [thinking slow, writing fast](https://bower.sh/thinking-slow-writing-fast)
 - [status-3](https://bower.sh/status-003)
 - [zmx - session persistence for terminal processes](https://bower.sh/zmx-session-persistence)
 - [smol contract](https://bower.sh/smol-contract)
 - [you might not need tmux](https://bower.sh/you-might-not-need-tmux)
-- [migrating to neovim&#39;s new built-in plugin manager](https://bower.sh/nvim-builtin-plugin-mgr)
 <!-- BLOG-POST-LIST:END -->
