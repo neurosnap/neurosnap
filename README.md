@@ -8,9 +8,9 @@ Talks:
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [zmx - ai portal](https://bower.sh/zmx-ai-portal)
 - [thinking slow, writing fast](https://bower.sh/thinking-slow-writing-fast)
 - [status-3](https://bower.sh/status-003)
 - [zmx - session persistence for terminal processes](https://bower.sh/zmx-session-persistence)
 - [smol contract](https://bower.sh/smol-contract)
-- [you might not need tmux](https://bower.sh/you-might-not-need-tmux)
 <!-- BLOG-POST-LIST:END -->
