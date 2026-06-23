@@ -8,9 +8,9 @@ Talks:
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [posix shell is all you need](https://bower.sh/posix-shell-is-all-you-need)
 - [zmx - ai portal](https://bower.sh/zmx-ai-portal)
 - [thinking slow, writing fast](https://bower.sh/thinking-slow-writing-fast)
 - [status-3](https://bower.sh/status-003)
 - [zmx - session persistence for terminal processes](https://bower.sh/zmx-session-persistence)
-- [smol contract](https://bower.sh/smol-contract)
 <!-- BLOG-POST-LIST:END -->
