@@ -8,9 +8,9 @@ Talks:
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [experimenting with a tutor agent](https://bower.sh/2026-11-16-tutor-persona-agent)
 - [introducing libzmx](https://bower.sh/zmx-lib)
 - [status-4](https://bower.sh/status-004)
 - [what the double-fork?](https://bower.sh/what-the-double-fork)
 - [posix shell is all you need](https://bower.sh/posix-shell-is-all-you-need)
-- [zmx - ai portal](https://bower.sh/zmx-ai-portal)
 <!-- BLOG-POST-LIST:END -->
